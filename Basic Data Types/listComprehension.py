@@ -6,8 +6,8 @@ if __name__ == '__main__':
     z = int(raw_input())
     n = int(raw_input())
     
-    ar = [[i, j, k] for i in range(x+1) for j in range(y+1) for k in range(z+1) if i+j+k!=n]
-    print(ar)
+    newArr = [[i, j, k] for i in range(x+1) for j in range(y+1) for k in range(z+1) if i+j+k!=n]
+    print(newArr)
 
 ## Solution 2 - no list comprehensions solution
 
