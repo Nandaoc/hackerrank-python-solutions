@@ -4,4 +4,4 @@
 
 1. [Introduction](https://github.com/Nandaoc/hackerrank-python-solutions/tree/main/Introduction)
 2. [Basic Data Types](https://github.com/Nandaoc/hackerrank-python-solutions/tree/main/Basic%20Data%20Types)
-
+2. [Strings](https://github.com/Nandaoc/hackerrank-python-solutions/tree/main/Strings)
